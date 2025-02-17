@@ -3,4 +3,4 @@ uvicorn
 python-multipart
 pydub
 openai-whisper
-guicorn
+gunicorn
